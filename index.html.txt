@@ -1,0 +1,4 @@
+hello this is file
+
+a=7
+b=7
